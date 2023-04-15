@@ -1,0 +1,47 @@
+.OurProcessH2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+  /* or 95% */
+  letter-spacing: -0.581818px;
+  color: #111111;
+}
+.platformBg {
+  background: linear-gradient(104.32deg, #fffdff 28.13%, #b8bac2 83.86%);
+}
+.shadows {
+  box-shadow: 14px 23px 97px 0px #00000014;
+  border-radius: 20px;
+}
+.net {
+  background: radial-gradient(
+      53.02% 55.59% at 50% 50%,
+      rgba(114, 90, 193, 0.29) 0%,
+      rgba(114, 90, 193, 0) 100%
+    )
+    /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+  border-radius: 2px;
+}
+.net1 {
+  background: rgba(6, 101, 244, 0.1);
+  border-radius: 1px;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.RShadows {
+  background: rgba(255, 255, 255, 0.6);
+  box-shadow: 14px 23px 97px rgba(0, 0, 0, 0.08);
+  backdrop-filter: blur(15px);
+  /* Note: backdrop-filter has minimal browser support */
+
+  border-radius: 20px;
+}
+.customer {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 132%;
+  /* or 26px */
+
+  color: #1f1f1e;
+}

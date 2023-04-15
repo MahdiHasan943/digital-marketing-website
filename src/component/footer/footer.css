@@ -1,0 +1,52 @@
+.copy {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* identical to box height, or 171% */
+  /* White */
+  color: #ffffff;
+}
+.footerP {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 26px;
+  color: #ffffff;
+}
+.Newsletter{
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+
+color: #FFFFFF;
+}
+.input{
+  
+  border-radius: 3px 0px 3px 3px!important;
+  width: auto;
+  height: auto;
+}
+.subscribe{
+  border-radius: 3px 3px 3px 0px!important;
+  width: auto;
+  height: auto;
+
+}
+.will{
+  font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+opacity: 0.5;
+}

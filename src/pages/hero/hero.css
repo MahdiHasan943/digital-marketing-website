@@ -1,0 +1,47 @@
+.DigitalH2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.workH1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: -0.581818px;
+  color: #111111;
+}
+.world-class {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #1e1e1e;
+}
+.heroBg {
+  background: linear-gradient(90deg, #262632 0%, #252330 100%);
+  border: 1px solid #262632;
+  border-radius: 26px;
+}
+.talent {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25.6552px;
+  line-height: 38px;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+}
+.challange {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}

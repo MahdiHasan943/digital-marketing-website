@@ -1,0 +1,19 @@
+.WeAreProudly {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+  line-height: 100%;
+  /* or 89px */
+
+  color: #000000;
+}
+.Skip {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 140%;
+  /* or 45px */
+
+  color: #000000;
+}
