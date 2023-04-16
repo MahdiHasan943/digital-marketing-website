@@ -20,11 +20,11 @@ const Marketing = () => {
             Social Media Monitoring
           </h1>
           <p className="text-white opacity-[0.8]">
-            Effective social media management can make or break <br /> a brand's
-            online presence. Our social media monitoring <br /> services enable
-            businesses to keep their finger on the <br /> pulse of what their
-            customers are saying about them <br /> on platforms such as
-            Facebook, Twitter, and Instagram.{" "}
+            Effective social media management can make or break a brand's
+            online presence. Our social media monitoring  services enable
+            businesses to keep their finger on the pulse of what their
+            customers are saying about them on platforms such as
+            Facebook, Twitter, and Instagram.
           </p>
         </div>
         <div className="bgBlack mt-10 sm:mt-0 w-full mx-auto py-20 px-10">
@@ -32,15 +32,15 @@ const Marketing = () => {
             Social Media Monitoring
           </h1>
           <p className="text-white opacity-[0.8]">
-            Effective social media management can make or break <br /> a brand's
-            online presence. Our social media monitoring <br /> services enable
-            businesses to keep their finger on the <br /> pulse of what their
-            customers are saying about them <br /> on platforms such as
-            Facebook, Twitter, and Instagram.{" "}
+            Effective social media management can make or break  a brand's
+            online presence. Our social media monitoring  services enable
+            businesses to keep their finger on the  pulse of what their
+            customers are saying about them  on platforms such as
+            Facebook, Twitter, and Instagram.
           </p>
         </div>
       </div>
-      <div className="  lg:flex w-full  lg:pt-[80px]  mx-auto justify-center gap-6">
+      <div className="  lg:flex w-full  lg:pt-[40px]  mx-auto justify-center gap-6">
         <div className="bgBlack  mt-10 lg:mt-0 w-full mx-auto py-20 px-10">
           <h1 className="text-white pb-10 font-bold">Political Marketing</h1>
           <p className="text-white opacity-[0.8]">

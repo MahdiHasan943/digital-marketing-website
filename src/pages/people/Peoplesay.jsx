@@ -3,7 +3,7 @@ import './people.css'
 
 const Peoplesay = () => {
   return (
-    <div>Peoplesay</div>
+    <div id='people' className=''>Peoplesay</div>
   )
 }
 

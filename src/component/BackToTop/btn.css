@@ -1,0 +1,22 @@
+/* .top-btn{
+    position: fixed;
+    top: 90%;WWW
+    left: 96%;WWW
+
+} */
+.Top{
+    /* background: linear-gradient(90deg, #80688E 50%, #4F586A 500%); */
+    /* background:#80688E; */
+      background-color: rgb(98 84 243);
+
+    cursor: pointer;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+
+}
+.Top:hover{
+        box-shadow: 0 2rem 2rem 0 rgb(132 144 255 / 30%);
+
+}

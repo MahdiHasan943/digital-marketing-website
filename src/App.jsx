@@ -5,6 +5,7 @@ import './App.css'
 import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import Main from './main/Main'
 import Home from './pages/home/Home'
+import GoToTop from './component/BackToTop/GoToTop'
 
 function App() {
   const router = createBrowserRouter([
@@ -31,6 +32,7 @@ function App() {
       <RouterProvider router={router}>
 
       </RouterProvider>
+      <GoToTop></GoToTop>
 
     </div>
   )
