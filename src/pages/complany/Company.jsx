@@ -3,7 +3,7 @@ import "./company.css";
 
 const Company = () => {
   return (
-    <div className="px-8 py-24 lg:px-[70px]">
+    <div id="company" className="px-8 py-24 lg:px-[70px]">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-10">
         <div className="pt-[140px]">
           <h2 className="WeAreProudly text-[44px] xl:text-[89px]">

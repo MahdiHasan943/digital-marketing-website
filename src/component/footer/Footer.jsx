@@ -62,8 +62,8 @@ const Footer = () => {
             <div className="flex py-4  mx-auto justify-center w-[100%] overflow-hidden">
               
               
-    <input type="text" placeholder="Your email address" className=" w-full bg-[#1E1E1E]  input-bordered-none rounded-none input" />
-                <button className="btn text-white bg-[#000] focus-outline-none outline-none subscribe">
+    <input type="text" placeholder="Your email address" className=" w-full py-8 bg-[#1E1E1E]  input-bordered-none rounded-none input" />
+                <button className="btn text-white py-8 bg-[#000] focus-outline-none outline-none subscribe">
                   Subscribe
     </button>
             </div>

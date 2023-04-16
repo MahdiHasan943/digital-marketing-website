@@ -29,28 +29,28 @@ function Navbar() {
         </a>
       </li>
       <li className="nav__item">
-        <a href="#" className="nav__link focus:text-[#738f2d]">
+        <a href="#company" className="nav__link focus:text-[#738f2d]">
           Company
         </a>
       </li>
       <li className="nav__item">
-        <a href="#" className="nav__link focus:text-[#738f2d]">
+        <a href="#marketing" className="nav__link focus:text-[#738f2d]">
           Marketing
         </a>
       </li>
       <li className="nav__item">
-        <a href="#" className="nav__link focus:text-[#738f2d]">
+        <a href="#people" className="nav__link focus:text-[#738f2d]">
           People Say{" "}
         </a>
       </li>
 
       <li className="nav__item">
-        <a href="#" className="nav__link focus:text-[#738f2d]">
+        <a href="#faq" className="nav__link focus:text-[#738f2d]">
           FAQs{" "}
         </a>
       </li>
       <li className="nav__item">
-        <a href="#" className="nav__link focus:text-[#738f2d]">
+        <a href="#contact" className="nav__link focus:text-[#738f2d]">
           Contact{" "}
         </a>
       </li>

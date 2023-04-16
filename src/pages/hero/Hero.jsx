@@ -58,7 +58,7 @@ const Hero = () => {
                   <div className="">
                     <img className="mx-auto" src="Frame.png" alt="" />
                     <p className="text-white text-center px-2 rounded-full text-[11px] py-[1.2px] mt-[5px] bg-[#F15756]">
-                      Not Available
+                     UNAVAILABLE
                     </p>
                   </div>
                   <div className="">
@@ -86,7 +86,7 @@ const Hero = () => {
 
               {/* 2 grid */}
               <div className="">
-                <div className="flex gap-4">
+                <div className="flex my-10 md:my-0 gap-4">
                   <div className="">
                     <img className="mx-auto" src="Frame.png" alt="" />
                     <p className="text-white text-[14px] px-2 rounded-full py-[1.2px] mt-[5px] bg-[#35CE6B]">
@@ -119,8 +119,7 @@ const Hero = () => {
                     <img className="mx-auto" src="Avatar1.png" alt="" />
                    
                     <p className="text-white text-center px-2 rounded-full text-[11px] py-[1.2px] mt-[5px] bg-[#F15756]">
-                      Not Available
-                    </p>
+                    UNAVAILABLE                    </p>
                   </div>
                   <div className="">
                     <p className="text-[#F1F1F1] text-[17px]">DESCRIPTION</p>

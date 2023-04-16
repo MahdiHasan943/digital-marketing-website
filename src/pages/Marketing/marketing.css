@@ -1,0 +1,32 @@
+.Choose {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+
+  /* or 95% */
+
+  letter-spacing: -0.581818px;
+
+  color: #000000;
+}
+
+#marketing {
+  background: linear-gradient(104.32deg, #fffdff 32.08%, #b8bac2 83.86%);
+}
+.ready {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  /* identical to box height, or 350% */
+
+  letter-spacing: -0.581818px;
+
+  color: #000000;
+}
+.bgBlack {
+  background: #262632;
+  border: 1px solid #262632;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
