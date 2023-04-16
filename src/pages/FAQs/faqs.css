@@ -1,0 +1,43 @@
+.bg {
+  background-image: url("bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+}
+.FAQ {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 26px;
+  /* identical to box height, or 41% */
+
+  text-align: center;
+
+  color: #000000;
+}
+.asked {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 46px;
+  /* or 75% */
+
+  text-align: center;
+
+  color: #136cf2;
+}
+
+.question {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 40px;
+  /* identical to box height, or 62% */
+
+  color: #000000;
+}
