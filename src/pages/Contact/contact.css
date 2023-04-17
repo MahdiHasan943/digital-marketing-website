@@ -22,3 +22,23 @@
 
   color: #000000;
 }
+.information {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 42px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+.subscribe {
+  ont-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+
+  color: #000000;
+}
