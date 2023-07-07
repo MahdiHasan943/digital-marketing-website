@@ -1,0 +1,56 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add react-hot-toast
+
+PATH: 
+  C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\nodejs\;C:\Users\mahdi\AppData\Local\Microsoft\WindowsApps;C:\Users\mahdi\AppData\Local\GitHubDesktop\bin;C:\Users\mahdi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\mahdi\AppData\Local\Yarn\bin;C:\Users\mahdi\Pictures\mongosh-1.8.0-win32-x64\mongosh-1.8.0-win32-x64\bin;C:\Users\mahdi\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.16.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, unlink 'E:\Marketing Website\Marketing Website\node_modules\@esbuild\win32-x64\esbuild.exe'
+
+npm manifest: 
+  {
+    "name": "digitalmarketing",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    },
+    "dependencies": {
+      "@headlessui/react": "^0.0.0-insiders.14b8c56",
+      "@tomickigrzegorz/react-circular-progress-bar": "^1.1.2",
+      "daisyui": "^2.51.5",
+      "framer-motion": "^10.12.18",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-focus-lock": "^2.9.4",
+      "react-icons": "^4.8.0",
+      "react-router-dom": "^6.10.0"
+    },
+    "devDependencies": {
+      "@types/react": "^18.0.28",
+      "@types/react-dom": "^18.0.11",
+      "@vitejs/plugin-react-swc": "^3.0.0",
+      "autoprefixer": "^10.4.14",
+      "postcss": "^8.4.24",
+      "tailwindcss": "^3.3.2",
+      "vite": "^4.2.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
