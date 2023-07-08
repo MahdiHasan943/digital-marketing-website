@@ -7,9 +7,9 @@ const Platform = () => {
   
 
   return (
-    <div id="platform" className="platformBg pt-[100px] xl:px-[70px]">
-      <div className="">
-        <h2 className="OurProcessH2 leading-[40px] lg:leading-[84px] text-[44px] lg:text-[88px] text-center">
+    <div id="platform" className="platformBg pt-[100px]  xl:px-[70px]">
+      <div className="py-4">
+        <h2 className="OurProcessH2 leading-[54px] lg:leading-[84px] text-[44px] lg:text-[88px] text-center">
           Our process is <span className="text-[#017AFB]">the best</span> <br />{" "}
           growth solution
         </h2>
@@ -41,7 +41,7 @@ const Platform = () => {
                     Monthly Activity
                   </p>
                   <p className="py-4 text-[50px] font-bold">20-30 </p>
-                  <span>Tasks</span>
+                  <span>Current Workload</span>
                 </div>
                 <div className="ml-[30px]">
                   <img className="net " src="line.png" alt="" />
@@ -54,7 +54,7 @@ const Platform = () => {
                     Monthly Activity
                   </p>
                   <p className="py-4 text-[50px] font-bold">20-30 </p>
-                  <span>Tasks</span>
+                  <span>Multi Channel Gigs</span>
                 </div>
                 <div className="ml-[30px]">
                   <div className="cropDesign">
@@ -87,7 +87,7 @@ const Platform = () => {
             </div>
           </div>
           {/* 3 row */}
-          <div className="lg:w-[30%]">
+          <div className="px-4 sm:px-0 lg:w-[30%]">
             <div className="px-12 py-10 mx-auto RShadows">
               <p className="customer">Customers Satisfaction</p>
               <p className="text-[60px]  my-14 font-bold">99%</p>
@@ -95,9 +95,9 @@ const Platform = () => {
               <span>2021 vs 2022</span>
             </div>
             <div className="px-12 mt-5 py-10 mx-auto RShadows">
-              <p className="customer">Our Customer</p>
-              <p className="text-[60px]  my-14 font-bold">72%</p>
-              <p className="">Very Happy</p>
+              <p className="customer">Our Customers</p>
+              <p className="text-[60px]  my-14 font-bold">95%</p>
+              <p className="">Returning Customers</p>
             </div>
           </div>
         </div>

@@ -7,21 +7,26 @@ const Company = () => {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-10">
         <div className="pt-[140px]">
           <h2 className="WeAreProudly text-[44px] xl:text-[89px]">
-            We are proudly <br /> leading the way in <br />{" "}
-            <span className="text-[#0075FF]">Digital Agency</span> <br />{" "}
+            We are proudly <br /> leading the way in <br />
+            <span className="text-[#0075FF]">Digital Agency</span> <br />
             through combining <br /> human skills with <br /> AI.
           </h2>
           <p className="Skip py-24">
             Skip the big promises and <span className="text-[#0075FF]">Hire</span> <br /> marketing experts at ClearTouch <br />
             Design <span className="text-[#0075FF]">based on data.</span>
           </p>
-          <div className="">
-            <button className="bg-[#63cb99] text-white py-5 px-4">
+          <div className=" py-20  text-start">
+            <a href="#contact">
+            <button  className="ml-2 btGlow  sm:ml-0 bg-[#63cb99] shadow-lg rounded-lg text-white py-8 px-10">
               Get Started
             </button>
-            <button className="mx-8 text-white bg-[#136CF2] py-5 px-7">
+          </a>
+            <a href="https://wa.me/+447961267350">
+
+            <button className="ml-2 btGlow mt-2 sm:mt-0 sm:mx-8 text-white shadow-lg rounded-lg bg-[#136CF2] py-8 px-14">
               Let's Talk
-            </button>
+              </button>
+              </a>
           </div>
         </div>
         <div className="">
@@ -30,9 +35,9 @@ const Company = () => {
             <img src="WomenBulb.png" alt="" />
           </div>
           <div className="">
-            <img className="mt-[-110px]" src="WomenChatting.png" alt="" />
+            <img className="mt-[20px] sm:mt-[-110px]" src="WomenChatting.png" alt="" />
           </div>
-          <div className="flex mt-[-240px] justify-end">
+          <div className="flex mt-[20px] sm:mt-[-240px] justify-end">
             <img src="ManLaptop.png" alt="" />
           </div>
         </div>

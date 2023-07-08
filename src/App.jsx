@@ -28,7 +28,7 @@ function App() {
   ])
 
   return (
-    <div className="   ">
+    <div className="mx-auto shadow-lg max-w-[1900px]">
       <RouterProvider router={router}>
 
       </RouterProvider>

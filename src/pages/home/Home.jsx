@@ -6,6 +6,7 @@ import Marketing from '../Marketing/Marketing'
 import Peoplesay from '../people/Peoplesay'
 import Faqs from '../FAQs/Faqs'
 import Contact from '../Contact/Contact'
+import Footer from '../../component/footer/Footer'
 
 const Home = () => {
   return (
@@ -18,7 +19,6 @@ const Home = () => {
       <Peoplesay></Peoplesay> 
       <Faqs></Faqs>
       <Contact></Contact>
-      
     </div>
   )
 }

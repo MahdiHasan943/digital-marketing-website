@@ -21,6 +21,12 @@ a {
   /* background: rgb(0, 33, 65); */
   background-color: white;
 }
+.tuoches{
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+
+}
 .nav__link {
   font-family: "Lato";
   font-style: normal;
@@ -28,11 +34,8 @@ a {
   font-size: 14px;
   line-height: 17px;
   letter-spacing: 0.025em;
-  color: #1e1e1e;
 }
-.nav__link:hover {
-  color: #1e1e1e;
-}
+
 .nav__brand {
   text-transform: capitalize;
   font-family: "Lato", sans-serif;
@@ -66,20 +69,15 @@ a {
     display: flex;
     justify-content: space-between;
   }
-  .nav__link {
-    color: white;
-  }
-  .nav__link:hover {
-    color: #aee22b;
-  }
+ 
 
   .nav__toggler {
     display: block;
     cursor: pointer;
   }
-  .item {
+  /* .item {
     margin-top: 50px;
-  }
+  } */
   .nav__menu {
     position: fixed;
     top: 0;
@@ -90,7 +88,7 @@ a {
     /* background: rgb(0, 33, 65); */
     background: rgb(0, 33, 65);
     flex-direction: column;
-    justify-content: start;
+    justify-content: center;
     gap: 30px;
     transform: translateX(100%) !important;
     transition: 0.2s ease-in;

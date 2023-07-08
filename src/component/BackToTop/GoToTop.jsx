@@ -28,9 +28,11 @@ const GoToTop = () => {
   return (
   <>
       {isVisible && (
-        <div className="Top fixed top-[90%]  z-50 left-[80%] lg:left-[93%] xl:left-[96%]  top-btn py-4 px-4 rounded-lg " onClick={goToBtn}>
-          <FaAngleDown className="hover:rotate-[180deg] text-white" />
+      //  top-[96%] 
+           <div className="Top fixed  top-[90%]   z-50 left-[35px] bg-gradient-to-t from-cyan-500 to-blue-500    top-btn  py-5 px-5 rounded-full " onClick={goToBtn}>
+          <FaArrowUp className="hover:rotate-[180deg]  animate-bounce transition delay-350 text-white" />
         </div>
+       
       )}
    </>
   );
